@@ -1,2 +1,2 @@
 # kaggle
-A repository for Kaggle competitions
+A repository for Kaggle competitions etc
